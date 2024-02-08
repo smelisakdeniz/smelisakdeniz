@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">I'm  Melis from Bursa<br><br>- 🔭 I just graduated from Management Information Systems Bachelor's Degree.<br>-👩‍💻 I am a freelancer as a Wordpress Developer..<br>- 📚 I'm currently learning Kotlin..<br>- ⚡ In my spare time, I improve my English level and do small projects with JS.</p>
+<p align="left">I'm  Melis from Bursa<br><br>- 🔭 I just graduated from Management Information Systems Bachelor's Degree.<br>-👩‍💻
+I am looking for a job as a tester in order to improve myself... <br>- 📚 I am currently taking training for Software Testing Expertise.. <br>- ⚡ In my spare time, I improve my English level and do small projects with JS.</p>
 
 ###
 
